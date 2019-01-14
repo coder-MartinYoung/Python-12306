@@ -7,7 +7,7 @@
 ## 前期准备条件：
 一、安装谷歌浏览器（安装最新版即可）  
 二、下载可执行程序，保存到本地  
-![保存到本地](https://github.com/coder-MartinYoung/Python-12306/1.png)
+![保存到本地](https://github.com/coder-MartinYoung/Python-12306/blob/master/1.png)
 三、保存“可执行程序”文件夹到本地之后，修改config.ini文件，主要修改如下信息：  
 1.[login]段中：username（12306用户名）、password（密码）    
 2.[cookieInfo]段中：starts（起始地点）、ends（终点）、dtime（出发日期，注意格式）  
