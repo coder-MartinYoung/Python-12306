@@ -23,3 +23,4 @@
 三、第二步中，验证码输入成功后，网页会跳转到12306页面，此时需要做的是：@@@在12306.exe输入‘Y’，然后点击回车确定  
 ![保存到本地](https://github.com/coder-MartinYoung/Python-12306/blob/master/3.png)  
 四、后台会一直刷新买票，当买票成功后悔发送邮件到指定邮箱，提醒你及时付款  
+![保存到本地](https://github.com/coder-MartinYoung/Python-12306/blob/master/4.png)  
